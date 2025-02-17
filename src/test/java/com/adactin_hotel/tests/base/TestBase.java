@@ -8,7 +8,6 @@ import com.adactin_hotel.crypto.services.CryptoOperationsManager;
 import com.adactin_hotel.drivers.BrowserFactory;
 import com.adactin_hotel.drivers.DriverFactory;
 import com.adactin_hotel.pages.adactinHotel.*;
-import com.adactin_hotel.pages.base.BasePage;
 import com.adactin_hotel.testDataStorage.TestContextIds;
 import com.adactin_hotel.config.paths.TestDataFilePath;
 import com.adactin_hotel.utils.jacksonUtils.JsonDataReader;

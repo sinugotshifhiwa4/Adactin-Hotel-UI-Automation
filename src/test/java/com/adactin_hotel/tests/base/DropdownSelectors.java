@@ -1,4 +1,4 @@
-package com.adactin_hotel.pages.base;
+package com.adactin_hotel.tests.base;
 
 import com.adactin_hotel.config.DropdownSelector;
 import com.adactin_hotel.utils.logging.LoggerUtils;

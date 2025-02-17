@@ -1,4 +1,4 @@
-package com.adactin_hotel.pages.base;
+package com.adactin_hotel.tests.base;
 
 import com.adactin_hotel.config.properties.PropertiesConfigManager;
 import com.adactin_hotel.config.properties.PropertiesFileAlias;
@@ -25,7 +25,7 @@ import java.util.Objects;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import static com.adactin_hotel.pages.base.DropdownSelectors.*;
+import static com.adactin_hotel.tests.base.DropdownSelectors.*;
 import static com.adactin_hotel.utils.dynamicWaits.ExplicitWaitUtils.getWebDriverWait;
 
 public class BasePage {
